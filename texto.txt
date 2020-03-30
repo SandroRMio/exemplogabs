@@ -1,1 +1,2 @@
 esse textoo é só um exemplo de git
+vamos fazer um clone dele ok
